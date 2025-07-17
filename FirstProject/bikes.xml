@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="true">
+    <classes>
+      <class name="org.BatchExecutionClasses.Jawa"/>
+      <class name="org.BatchExecutionClasses.Hero"/>
+      <class name="org.BatchExecutionClasses.Yamama"/>
+      <class name="org.BatchExecutionClasses.Suzuki"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

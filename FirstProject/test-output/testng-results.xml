@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-09T09:35:53 IST" name="Default suite" finished-at="2025-07-09T09:36:01 IST" duration-ms="8711">
+    <groups>
+    </groups>
+    <test started-at="2025-07-09T09:35:53 IST" name="Default test" finished-at="2025-07-09T09:36:01 IST" duration-ms="8711">
+      <class name="TestScripts.DemoScript">
+        <test-method is-config="true" signature="launchAndMaximaizeTheBrowser(java.lang.String)[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:35:53 IST" name="launchAndMaximaizeTheBrowser" finished-at="2025-07-09T09:35:57 IST" duration-ms="4814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAndMaximaizeTheBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:35:57 IST" name="login" finished-at="2025-07-09T09:35:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="demoScript()[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:35:57 IST" name="demoScript" finished-at="2025-07-09T09:36:01 IST" duration-ms="3555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoScript -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:36:01 IST" name="logout" finished-at="2025-07-09T09:36:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="Testcase()[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:36:01 IST" name="Testcase" finished-at="2025-07-09T09:36:01 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:36:01 IST" name="login" finished-at="2025-07-09T09:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:36:01 IST" name="logout" finished-at="2025-07-09T09:36:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:TestScripts.DemoScript@367ffa75]" started-at="2025-07-09T09:36:01 IST" name="tearDownBrowser" finished-at="2025-07-09T09:36:01 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- TestScripts.DemoScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
